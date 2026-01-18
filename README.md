@@ -27,3 +27,7 @@ Monocle v2.30.1
 CellChat v2.1.2
 
 NicheNet v2.2.0
+
+ #Attention, please! The scPRIT package relies on specific R and Python environments and database resources, 
+  #which the developers integrate into the docker image analysis environment. 
+  #Specific access method please see the following link: https://mp.weixin.qq.com/s/sR12NVP179xZK5VEgRSxmA
